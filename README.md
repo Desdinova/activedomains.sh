@@ -1,0 +1,1 @@
+# activedomains.sh
